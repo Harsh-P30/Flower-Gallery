@@ -22,19 +22,25 @@ This app showcases a collection of flower images in an elegant and mobile-friend
 
 ```bash
 git remote add origin https://github.com/Harsh-P30/Flower-Gallery.git
+```
+```bash
 cd flower-gallery
+```
 Install dependencies
 
+```bash
 npm install
+```
 Start the development server
 
-bash
+```bash
 npm start
+```
 The app will run at http://localhost:5174.
 
 🛠️ Folder Structure
 
-bash
+```bash
 /src
   ├── components/
   │    └── Gallery.js
@@ -42,6 +48,11 @@ bash
   │    └── images/
   ├── App.js
   └── index.js
+```
+
+
 🧑‍💻 Author
 Harsh Prasad
+```bash
 GitHub https://github.com/Harsh-P30
+```
